@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>サイトマップ on 楽楽販売、楽楽精算を中心に開発で役立つ技術を配信</title>
+    <link>https://www.hikaku.io/sitemap/</link>
+    <description>Recent content in サイトマップ on 楽楽販売、楽楽精算を中心に開発で役立つ技術を配信</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 13 Jun 2020 13:49:23 +0600</lastBuildDate>
+    
+	<atom:link href="https://www.hikaku.io/sitemap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
