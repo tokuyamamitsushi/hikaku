@@ -146,6 +146,32 @@
         </div>
         {{end}}
 
+        {{ if .Params.related_text1 }}  
+        <br>
+        <br>
+        <hr>
+        <h3>関連記事</h3>
+        <hr>
+
+        <!-- 関連サイト1-->
+        {{ if .Params.related_text1 }}  
+        <h6><a  href="{{.Params.related_url1}}">{{.Params.related_text1}}</a></h6>
+        {{end}}
+        <br>
+
+        <!-- 関連サイト2-->
+        {{ if .Params.related_text2 }}  
+        <h6><a  href="{{.Params.related_url2}}">{{.Params.related_text2}}</a></h6>
+        {{end}}
+        <br>
+
+        <!-- 関連サイト3-->
+        {{ if .Params.related_text3 }}  
+        <h6><a  href="{{.Params.related_url3}}">{{.Params.related_text3}}</a></h6>
+        {{end}}
+        <br>
+        
+      {{end}}
 
       </div>
 
