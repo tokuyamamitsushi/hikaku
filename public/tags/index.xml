@@ -6,35 +6,26 @@
     <description>Recent content in Tags on 楽楽販売、楽楽精算を中心に開発で役立つ技術を配信</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2020 04:32:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.hikaku.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>シンガポール</title>
-      <link>https://www.hikaku.io/tags/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB/</link>
-      <pubDate>Sat, 11 Jul 2020 04:32:31 +0000</pubDate>
+      <title>Markdown</title>
+      <link>https://www.hikaku.io/tags/markdown/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.hikaku.io/tags/%E3%82%B7%E3%83%B3%E3%82%AC%E3%83%9D%E3%83%BC%E3%83%AB/</guid>
+      <guid>https://www.hikaku.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>海外</title>
-      <link>https://www.hikaku.io/tags/%E6%B5%B7%E5%A4%96/</link>
-      <pubDate>Sat, 11 Jul 2020 04:32:31 +0000</pubDate>
+      <title>マークダウン</title>
+      <link>https://www.hikaku.io/tags/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%80%E3%82%A6%E3%83%B3/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.hikaku.io/tags/%E6%B5%B7%E5%A4%96/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>観光</title>
-      <link>https://www.hikaku.io/tags/%E8%A6%B3%E5%85%89/</link>
-      <pubDate>Sat, 11 Jul 2020 04:32:31 +0000</pubDate>
-      
-      <guid>https://www.hikaku.io/tags/%E8%A6%B3%E5%85%89/</guid>
+      <guid>https://www.hikaku.io/tags/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%80%E3%82%A6%E3%83%B3/</guid>
       <description></description>
     </item>
     
@@ -53,6 +44,15 @@
       <pubDate>Sun, 05 Jul 2020 13:50:55 +0000</pubDate>
       
       <guid>https://www.hikaku.io/tags/%E7%94%B7%E5%AD%90%E6%97%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>観光</title>
+      <link>https://www.hikaku.io/tags/%E8%A6%B3%E5%85%89/</link>
+      <pubDate>Sun, 05 Jul 2020 13:50:55 +0000</pubDate>
+      
+      <guid>https://www.hikaku.io/tags/%E8%A6%B3%E5%85%89/</guid>
       <description></description>
     </item>
     

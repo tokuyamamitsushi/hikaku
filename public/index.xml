@@ -6,20 +6,18 @@
     <description>Recent content on 楽楽販売、楽楽精算を中心に開発で役立つ技術を配信</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2020 04:32:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.hikaku.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>【最新記事】夜のシンガポールを散策してみた</title>
-      <link>https://www.hikaku.io/blog/20200711-002/</link>
-      <pubDate>Sat, 11 Jul 2020 04:32:31 +0000</pubDate>
+      <title>仕事の効率、学習効率をアップさせるMarkdown（マークダウン）の書き方</title>
+      <link>https://www.hikaku.io/blog/20200724-001/</link>
+      <pubDate>Fri, 24 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.hikaku.io/blog/20200711-002/</guid>
-      <description>最新の記事を追加する
-最新記事
-Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 コンテンツの追加方法 ここにコンテンツを追加する</description>
+      <guid>https://www.hikaku.io/blog/20200724-001/</guid>
+      <description>１．Markdown（マークダウン）で見出しを作成する  # Heading 1 ## Heading 2 ### Heading 3 #### Heading 4 ##### Heading 5 ###### Heading 6  見出しを作成する時は、「#」の数できまります。 簡単に見出しを作成できます。</description>
     </item>
     
     <item>
